@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexSearch", "IndexSearch.csproj", "{7D19CD0F-6A55-4EDC-8D3D-77581A75F780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D19CD0F-6A55-4EDC-8D3D-77581A75F780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D19CD0F-6A55-4EDC-8D3D-77581A75F780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D19CD0F-6A55-4EDC-8D3D-77581A75F780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D19CD0F-6A55-4EDC-8D3D-77581A75F780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {153628B2-399B-41E8-A1DD-CA24F71700A7}
+	EndGlobalSection
+EndGlobal

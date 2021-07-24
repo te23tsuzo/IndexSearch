@@ -1,0 +1,7 @@
+C:\work\nksol\pbidevops\indexsearch\IndexSearch\bin\Debug\IndexSearch.exe.config
+C:\work\nksol\pbidevops\indexsearch\IndexSearch\bin\Debug\IndexSearch.exe
+C:\work\nksol\pbidevops\indexsearch\IndexSearch\bin\Debug\IndexSearch.pdb
+C:\work\nksol\pbidevops\indexsearch\IndexSearch\obj\Debug\IndexSearch.csprojAssemblyReference.cache
+C:\work\nksol\pbidevops\indexsearch\IndexSearch\obj\Debug\IndexSearch.csproj.CoreCompileInputs.cache
+C:\work\nksol\pbidevops\indexsearch\IndexSearch\obj\Debug\IndexSearch.exe
+C:\work\nksol\pbidevops\indexsearch\IndexSearch\obj\Debug\IndexSearch.pdb

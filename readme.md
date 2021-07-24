@@ -7,7 +7,7 @@ This program search keywords by Windows Search function.
 
 Dosプロンプトまたは、PowerShellで使用してください。
 
-以下オプションがります。
+以下オプションがあります。
  - --path 検索対象のフルパス。WindowsのIndexが設定されていないパスを指定すると、検索結果が出ません。
 検索結果が出てこない場合は、”Windows Searchの設定”を確認してください。
 指定しない場合は、実効ディレクトリは以下を検索します。
